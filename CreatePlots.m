@@ -1,6 +1,6 @@
 %% Automaticaly get Polar from Files
 
-
+% Get Data from Fensap
 
 clc
 clear
