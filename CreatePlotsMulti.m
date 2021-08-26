@@ -332,3 +332,6 @@ for file = convergFile
     Excel
     
 end
+
+
+close all
